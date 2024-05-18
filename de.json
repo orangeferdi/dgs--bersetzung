@@ -213,9 +213,9 @@
   "ATLS_TITLE": "Atlas",
   "ATLS_DESC": "DGS Atlas - Die Wissensdatenbank für Apex",
   "LATEST": "Neueste",
-  "ATLS_INFO": "Endzonen-Standorte & Zonenzüge", ??
+  "ATLS_INFO": "Endzonen-Standorte & Zonenverläufe",
   "ATLS_WELCOME": "Willkommen bei DGS Atlas Lite",
-  "ATLS_WELCOME_1": "Dies ist die erste Version von DGS Atlas, die nur Zonenzüge enthält. Dies basiert auf allen in DGS gespeicherten Spielen. Die Daten werden täglich aktualisiert.",
+  "ATLS_WELCOME_1": "Dies ist die erste Version von DGS Atlas, die nur Zonenverläufe enthält. Dies basiert auf allen in DGS gespeicherten Spielen. Die Daten werden täglich aktualisiert.",
   "ATLS_WELCOME_2": "Schau dir die Legende oben rechts auf der Karte an, um die angezeigten Daten anzupassen, und wechsle die Karte oben auf deinem Bildschirm.",
   "ATLS_WELCOME_3": "Ist das nützlich für dich oder dein Team? DGS zu betreiben ist nicht kostenlos, aber dieser Service ist kostenlos. Erwäge, meine Arbeit auf <a href=\"https://patreon.com/hugodev\">Patreon</a> zu unterstützen.",
   "ATLS_WELCOME_4": "Du wirst diese Nachricht nur einmal sehen.",
