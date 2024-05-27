@@ -397,7 +397,7 @@
   "LO_VISIBLE": "Alle Overlays (bis auf die Punktetabelle) werden nicht sichtbar sein wenn kein Spiel läuft.",
   "LO_APEX": "Um ein Overlay zu verwenden, musst du deinen Apex-Account darunter einstellen. Dies wird benötigt um das Overlay mit dem korrekten Beobachter zu verbinden falls mehr als einer in deinem Spiel ist.",
   "LO_LINK_TITLE": "Apex-Account verbunden - Beobachter ID",
-  "LO_LINK_I1": "Der Account der hier verbunden wird muss einer der Beobachter sein von dem du Daten anzeigen lassen willst. Als Beispiel, wenn ein Team-Name Overlay benutzt wird, würde es den Namen des Teams, dem gerade von einem Beobachter zugeschaut wird, angezeigen.",
+  "LO_LINK_I1": "Der Account, der hier verbunden wird, muss einer der Beobachter sein von dem du Daten anzeigen lassen willst. Als Beispiel, wenn ein Team-Name Overlay benutzt wird, würde es den Namen des Teams, dem gerade von einem Beobachter zugeschaut wird, anzeigen.",
   "LO_LINK_I2": "Solltest du mehrere Beobachter in deinem Spiel haben, weise eine Browser-Quelle zu jedem mit der entsprechenden ID zu die darunter generiert wird.", 
   "LO_LINK_I3": "Overlays (Links) werden gerade für <span class='bold'>Account ID %s</span> angezeigt.",
   "LO_LINK_I4": "Zeige die enstsprechende Profil-Seite",
