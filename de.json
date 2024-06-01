@@ -43,7 +43,7 @@
   "GAME": "Spiel",
   "GAMES": "Spiele",
   "TOURNAMENT_VIEW_MODE": "Dieses Turnier verwendet den Modus %s",
-  "TAS_INFO": "Erstelle einen Punkte-Befehl für dieses Turnier, um ihn im Chat deines Streams zu verwenden",
+  "TAS_INFO": "Erstelle einen Punkte-Befehl für dieses Turnier, um ihn im Chat deines Streams verwenden zu können",
   "TAS_DISCLAIMER": "*Hinweis: Chat-Befehle werden von Twitch Apex Stats, einem Drittanbieter-Dienst, bereitgestellt.",
   "TOURNAMENT_VIEW_NO_SCORES": "Noch keine Punkte verfügbar. Schaue später vorbei!",
   "TEAM_COMPOSITION": "Teamzusammensetzung",
@@ -556,7 +556,6 @@
   "AIM_ASSIST": "Aim-Assist",
   "ADMIN_ONLY_CHAT": "Nur-Admin-Chat",
   "ANONYMOUS_MODE": "Anonymer Modus"
-  
   "NO_GAMES_YET": "Noch keine Spiele",
   "DGS_HELPER_SHORT": "DGS Helper",
   "DGS_HELPER_SOFT": "DGS Helper Software",
