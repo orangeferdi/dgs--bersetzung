@@ -556,4 +556,18 @@
   "AIM_ASSIST": "Aim-Assist",
   "ADMIN_ONLY_CHAT": "Nur-Admin-Chat",
   "ANONYMOUS_MODE": "Anonymer Modus"
+  
+  "NO_GAMES_YET": "Noch keine Spiele",
+  "DGS_HELPER_SHORT": "DGS Helper",
+  "DGS_HELPER_SOFT": "DGS Helper Software",
+  "DGS_HELPER_SOFT_DESC": "DGS Helper Software - Speichere deine Custom Games JSON-Dateien lokal auf deinem Computer",
+  "DGS_HELPER_SOFT_PRES": "The DGS Helper Software ermöglicht es dir, deine benutzerdefinierten Spieledaten lokal als JSON-Dateien auf deinem Computer zu speichern, wie es vor Saison 21 möglich war. Dies dient als Sicherung für den Fall von Netzwerkinstabilitäten zwischen deinem Spielclient und den DGS-Servern, sodass du bei Bedarf Daten manuell über dein Veranstalter-Portal hochladen kannst.",
+  "DGS_HELPER_DOWNLOAD": "DGS Helper herunterladen (Windows)",
+  "HOW_TO_USE": "Anleitung",
+  "DH_1": "Im Abschnitt 'Setup' klicke auf die Schaltfläche 'Spielkonfiguration anwenden'. Starte danach deinen Spielclient neu. Im Abschnitt 'Spielclient-Status' sollte die Meldung 'Spielclient verbunden' erscheinen.",
+  "DH_2": "Die JSON-Dateien werden im üblichen Ordner gespeichert, der mit der Schaltfläche 'Datenordner öffnen' geöffnet werden kann.",
+  "DH_3": "Jedes Mal, wenn ein Spiel beginnt, werden die Daten im Softwarepuffer gespeichert. Wenn das Spiel endet, wird der Puffer in einer JSON-Datei gespeichert, die mit dem aktuellen Datum und der aktuellen Uhrzeit benannt ist. Wenn das Spiel begonnen hat, wechselt der Spielstatus zu 'Läuft'.",
+  "DH_4": "Du kannst 'Websocket-Weiterleiter' einrichten, die Daten an deine hinzugefügten Server senden und empfangen. Dies ist zusätzlich zur bestehenden Spielfunktionalität und soll die Entwicklung erleichtern.",
+  "DH_RECOMMEND": "Es wird empfohlen, die DGS Helper Software parallel als Sicherung zu betreiben, falls es zu Netzwerkinstabilitäten zwischen deinem Spielclient und den DGS-Servern kommt. Dadurch kannst du verlorene Daten wiederherstellen, indem du sie manuell hochlädst. <a href='/tournament/dgs-helper' target='_blank'>Hier klicken, um herunterzuladen!</a>"
+
 }
