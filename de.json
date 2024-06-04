@@ -566,7 +566,7 @@
   "DH_1": "Im Abschnitt 'Setup' klicke auf die Schaltfläche 'Spielkonfiguration anwenden'. Starte danach deinen Spielclient neu. Im Abschnitt 'Spielclient-Status' sollte die Meldung 'Spielclient verbunden' erscheinen.",
   "DH_2": "Die JSON-Dateien werden im üblichen Ordner gespeichert, der mit der Schaltfläche 'Datenordner öffnen' geöffnet werden kann.",
   "DH_3": "Jedes Mal, wenn ein Spiel beginnt, werden die Daten im Softwarepuffer gespeichert. Wenn das Spiel endet, wird der Puffer in einer JSON-Datei gespeichert, die mit dem aktuellen Datum und der aktuellen Uhrzeit benannt ist. Wenn das Spiel begonnen hat, wechselt der Spielstatus zu 'Läuft'.",
-  "DH_4": "Du kannst 'Websocket-Weiterleiter' einrichten, die Daten an deine hinzugefügten Server senden und empfangen. Dies ist zusätzlich zur bestehenden Spielfunktionalität und soll die Entwicklung erleichtern.",
-  "DH_RECOMMEND": "Es wird empfohlen, die DGS Helper Software parallel als Sicherung zu betreiben, falls es zu Netzwerkinstabilitäten zwischen deinem Spielclient und den DGS-Servern kommt. Dadurch kannst du verlorene Daten wiederherstellen, indem du sie manuell hochlädst. <a href='/tournament/dgs-helper' target='_blank'>Hier klicken, um herunterzuladen!</a>"
+  "DH_4": "Du kannst einen 'Websocket-Weiterleiter' einrichten, der die Daten an deine hinzugefügten Server sendet und emüfängt. Dies ist zusätzlich zur bestehenden Spielfunktionalität und soll die Entwicklung erleichtern.",
+  "DH_RECOMMEND": "Es wird empfohlen, die DGS Helper Software parallel als Sicherung zu betreiben, falls es zu Netzwerkinstabilitäten zwischen deinem Spielclient und den DGS-Servern kommt. Dadurch kannst du verlorene Daten wiederherstellen, indem du sie manuell hochlädst. <a href='/tournament/dgs-helper' target='_blank'>Hier klicken, um ihn herunterzuladen!</a>"
 
 }
